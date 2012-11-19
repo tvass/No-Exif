@@ -1,0 +1,31 @@
+Welcome to "No-Exif"
+
+>> Contact: kbour23@gmail.com
+
+Application Android permettant de vider simplement les données EXIF
+(coordonnées GPS, modèle de téléphone, date, heure, ...) intégrées à
+la photo AVANT de la partager. No-Exif utilise un fichier temporaire,
+les photos originales ne sont pas modifiées. 
+
+=====================================================================
+GNU GPL, version 3
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or (at
+your option) any later version.
+
+This program is distributed in the hope that it will be useful, but 
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+=====================================================================
+The "file" icon was created by Neurovit
+http://neurovit.deviantart.com
+Creative Commons (Creative Commons (Attribution-Share Alike 3.0
+Unported).
+=====================================================================
